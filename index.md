@@ -4,4 +4,7 @@ title: Home
 ---
 
 # Welcome 👋
-This is my knowledge hub.
+
+Explore my learning notes and documentation:
+
+👉 [Go to Docs](/notes/fabric)
