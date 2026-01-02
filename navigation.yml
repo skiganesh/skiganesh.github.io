@@ -1,0 +1,7 @@
+docs:
+  - title: Microsoft Fabric
+    url: /notes/fabric
+  - title: Azure Synapse
+    url: /notes/synapse
+  - title: SQL & Data Modeling
+    url: /notes/sql
