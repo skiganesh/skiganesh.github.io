@@ -1,3 +1,9 @@
-title: Ganesh Kumar S
-description: Azure Data Engineering | Microsoft Fabric | Learning Notes
+title: Ganesh Kumar
+description: Azure Data Engineering | Microsoft Fabric
 theme: jekyll-theme-cayman
+
+header_pages:
+  - index.md
+  - blogs.md
+  - notes.md
+  - contact.md
