@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Ganesh Kumar S
+title: Home
 ---
 
 # Welcome 👋
-
-Azure Data Engineering | Microsoft Fabric
+This is my knowledge hub.
